@@ -1,7 +1,7 @@
 # HackerHour
 1.) Download Python3
 
-2.) Create a Folder then run
+2.) Clone the repo then run
 
 ```
 pip install -r requirements.txt
