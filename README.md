@@ -14,3 +14,5 @@ pip install -r requirements.txt
 5.) Put the ngrok url into twilio
 
 6.) Have fun
+
+RUTGERS API: https://rumobile.rutgers.edu/1/rutgers-dining.txt
